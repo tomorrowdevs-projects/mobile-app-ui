@@ -1,31 +1,37 @@
-Create a Landing Page using the attached mockup file.
+Create a Mobile App UI using the attached mockup file.
 ===============================
 
-![preview](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/preview.png "preview")
+![preview](https://github.com/tomorrowdevs-projects/mobile-app-ui/blob/main/preview.jpeg "preview")
 
-## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/Hotel_Booking_Freebie.fig)
+## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/mobile-app-ui/blob/main/mockup.fig)
 
 Requirements:
 ----------------
-- Create the Landing Page for Desktop view
 - Respect exactly the provided layout
+- If visiting the page on a Desktop, show an alert to the user that says to check the same page from a Mobile Device
+- Provide the Mobile experience of Scrolling and Navigation of Details
+- Details of the Doctors are mocked (e.g. No API is needed)
+- The search input should filter the doctors by name
+- Each Category should filter the doctors
+- By clicking on a Doctor name, the user should  see the details
+- Test the layout on a real mobile device (check Browsersync for this) 
 - Deploy the project towards Netlify (www.netlify.com) connected to your GitHub Repo
-- The page should have an efficient SEO level
-- Write CSS following BEM Methodology
 - After the project is deployed, analyze it with https://web.dev
-
 
 
 Knowledge Required for the Project:
 ----------------
 - Basic HTML
 - CSS Flexbox
-- BEM Methodology
+- CSS transitions and animations
+- Responsiveness rules
 - SVG integration
-- Rounded Images
 - External Fonts integration
 - Figma Usage
-- SEO rules and Metatags
+- Browsersync Usage
+- Npm Usage
+- Javascript functions to filter the list and show the details
+- Javascript functions to check the used device
 
 
 Before starting any of the tasks in this Learning Path, please READ the following rules
